@@ -7,7 +7,8 @@
     background-color: rgb(255,200,20);
 }
 
-.both{
+.first-element, 
+.second-element {
     font-size: 28px;
     font: "helvetica", "times-new-roman", "sans-serif";
 }
