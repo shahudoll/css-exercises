@@ -1,0 +1,22 @@
+/* Solving css id and selector "author- Shahudoll" */
+
+.class-selector {
+    background-color: rgb(219, 105, 97);
+    font: verdana,DejaVu Sans, sans-serif;
+}
+
+#id-selector-1{
+    color: rgb(0,0,255);
+    font-size:36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+ 
+#id-selector-2 {
+    background-color: rgb(79, 247, 115);
+    font-weight: bold;
+}
+
+/* excercise completed by shahudoll - goodwork */
