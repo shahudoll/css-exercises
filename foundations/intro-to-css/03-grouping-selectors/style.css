@@ -1,0 +1,13 @@
+.first-element {
+    background-color: #000;
+    color: #fff
+}
+
+.second-element {
+    background-color: rgb(255,200,20);
+}
+
+.both{
+    font-size: 28px;
+    font: "helvetica", "times-new-roman", "sans-serif";
+}
